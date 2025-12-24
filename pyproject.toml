@@ -1,0 +1,17 @@
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "churn-app"
+version = "1.0.0"
+dependencies = [
+    "streamlit==1.32.0",
+    "scikit-learn==1.5.0",
+    "numpy==2.0.2",
+    "pandas==2.2.2",
+    "joblib==1.4.2"
+]
+
+[project.optional-dependencies]
+dev = ["pytest", "black"]

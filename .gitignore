@@ -1,0 +1,40 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual Environment
+.env
+venv/
+myenv/
+
+# IDE
+.vscode/
+.idea/
+
+# Data & Model files (BESAR - JANGAN PUSH!)
+data/
+*.csv
+*.xlsx
+*.pkl
+*.pickle
+*.joblib
+*.h5
+
+# Notebook outputs (JANGAN push output cells)
+*.png
+*.jpg
+*.pdf
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# File besar spesifik project
+best_churn_model.pkl  # jika > 10MB, jangan push

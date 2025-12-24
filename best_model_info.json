@@ -1,0 +1,12 @@
+{
+    "best_model": "Random Forest (Tuned)",
+    "metrics": {
+        "accuracy": 0.8456,
+        "precision": 0.7123,
+        "recall": 0.589,
+        "f1_score": 0.6432
+    },
+    "description": "Random Forest with Hyperparameter Tuning (FULL PIPELINE)",
+    "features_used": 19,
+    "dataset_size": "7043 samples"
+}
