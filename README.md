@@ -38,7 +38,33 @@ Proyek prediksi customer churn menggunakan dataset Telco dengan 9 model machine 
 ```bash
 git clone https://github.com/username/nama-repo.git
 cd nama-repo
+```
 
 ### 2. Install Dependencies
 ```bash
 pip install -r requirements.txt
+```
+
+### 3. Jalankan Aplikasi
+```bash
+streamlit run app.py
+```
+
+---
+
+## Struktur Folder
+```text
+├── data/
+├── notebooks/
+├── src/
+├── app.py
+├── requirements.txt
+└── README.md
+```
+
+---
+
+## Catatan
+- **Dataset berasal dari Telco Customer Churn (public dataset)**
+- **Model disimpan dalam format .pkl**
+- **Aplikasi dapat diakses secara lokal pada localhost:8501**
