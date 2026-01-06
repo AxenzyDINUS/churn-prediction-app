@@ -56,7 +56,6 @@ streamlit run app.py
 ```text
 ├── data/
 ├── notebooks/
-├── src/
 ├── app.py
 ├── requirements.txt
 └── README.md
