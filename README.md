@@ -65,6 +65,11 @@ streamlit run app.py
 ---
 
 ## Catatan
-- **Dataset berasal dari Telco Customer Churn (public dataset)**
-- **Model disimpan dalam format .pkl**
-- **Aplikasi dapat diakses secara lokal pada localhost:8501**
+- *Dataset berasal dari Telco Customer Churn (public dataset)*
+- *Model disimpan dalam format .pkl*
+- *Aplikasi dapat diakses secara lokal pada localhost:8501*
+
+---
+
+## Lisensi
+*Project ini dibuat untuk tujuan Akademik*
