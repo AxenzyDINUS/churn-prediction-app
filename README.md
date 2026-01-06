@@ -52,7 +52,7 @@ streamlit run app.py
 
 ---
 
-## Struktur Folder
+## 📁 Struktur Folder
 ```text
 ├── data/
 ├── notebooks/
@@ -64,12 +64,12 @@ streamlit run app.py
 
 ---
 
-## Catatan
+## 📌 Catatan
 - *Dataset berasal dari Telco Customer Churn (public dataset)*
 - *Model disimpan dalam format .pkl*
 - *Aplikasi dapat diakses secara lokal pada localhost:8501*
 
 ---
 
-## Lisensi
+## 📄 Lisensi
 *Project ini dibuat untuk tujuan Akademik*
