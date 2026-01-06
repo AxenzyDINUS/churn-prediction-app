@@ -38,3 +38,7 @@ Proyek prediksi customer churn menggunakan dataset Telco dengan 9 model machine 
 ```bash
 git clone https://github.com/username/nama-repo.git
 cd nama-repo
+
+### 2. Install Dependencies
+```bash
+pip install -r requirements.txt
